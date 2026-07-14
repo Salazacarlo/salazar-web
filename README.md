@@ -1,3 +1,7 @@
+<img width="480" height="620" alt="Screenshot 2026-07-14 17 54 47" src="https://github.com/user-attachments/assets/045c0c6c-fb77-495e-8264-ba3b4dce7538" />
+<img width="480" height="620" alt="Screenshot 2026-07-14 17 54 08" src="https://github.com/user-attachments/assets/6f82a46f-9e94-4784-8de1-c1126fbe5686" />
+<img width="433" height="620" alt="Screenshot 2026-07-14 17 53 32" src="https://github.com/user-attachments/assets/067a60ec-1c5e-4ef6-9c3e-b648b40e0bdb" />
+<img width="403" height="548" alt="Screenshot 2026-07-14 17 52 55" src="https://github.com/user-attachments/assets/fdaec431-6bff-4699-9249-6f6f8555712d" />
 # salazar-web
 Pagina personal de carlo
 -----------------------------------------------------
